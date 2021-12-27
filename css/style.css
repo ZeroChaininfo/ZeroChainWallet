@@ -1,0 +1,105 @@
+        body {
+          font-family: 'Courier New', monospace;
+          background: #ecf0f1;
+          min-width:1200px;
+        }
+        
+        .td_head1 {
+          font-family:sans-serif;
+          height: 30px;
+          font-size: 15px;
+          padding-left: 6px;
+        }
+        .td_row {
+          font-family:sans-serif;
+          height: 25px;
+          font-size: 14px;
+          color: #07729d;
+          padding-left: 6px;
+        }
+        .tr_row:nth-child(odd) {background-color: rgb(242, 243, 244);}
+        .tr_row:nth-child(even) {background-color: rgb(249, 249, 249);}
+        .tr_row:hover {background-color: rgb(228, 230, 232);}
+        
+        .td_row_2 {
+          color: #000;
+          height: 40px;
+          font-size: 18px;
+          padding-left: 10px;
+          padding-right: 6px;
+        }
+
+        .submit_b1 {
+            border-color:#ccc;
+            border-radius:3px;
+            border-width:1px;
+            font-size:18px;
+            height: 30px;
+            transition:0.5s all ease;
+            }
+        .submit_b1:hover {
+            border-color:#102045;
+            }
+        .submit_b1:focus {
+            border-color:#102045;
+            background: #FFFACD;
+            }
+         .submit_b1::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+          color: #bbb;
+        }
+        
+        
+        .navhome{
+        width: 120px;
+        height: 28px;
+        padding-top: 10px;
+        float: left;
+        font-size: 18px;
+        color: #216F8B;
+        border: 1px solid #216F8B;
+        border-width: 1px 0px 1px 1px;
+        border-top-left-radius: 9px 5px;
+        border-bottom-left-radius: 9px 5px;
+        text-align: center;
+        }
+        .navhome:hover{
+        font-weight: bold;
+        background-color: #216F8B;
+        color: #fff;
+        }
+        
+        .navsec{
+        width: 120px;
+        height: 28px;
+        padding-top: 10px;
+        float: left;
+        font-size: 18px;
+        color: #216F8B;
+        border: 1px solid #216F8B;
+        border-width: 1px 0px 1px 0px;
+        text-align: center;
+        }
+        .navsec:hover{
+        font-weight: bold;
+        background-color: #216F8B;
+        color: #fff;
+        }
+        
+        .navlast{
+        width: 120px;
+        height: 28px;
+        padding-top: 10px;
+        float: left;
+        font-size: 18px;
+        color: #216F8B;
+        border: 1px solid #216F8B;
+        border-width: 1px 1px 1px 0px;
+        border-top-right-radius: 9px 5px;
+        border-bottom-right-radius: 9px 5px;
+        text-align: center;
+        }
+        .navlast:hover{
+        font-weight: bold;
+        background-color: #216F8B;
+        color: #fff;
+        }
