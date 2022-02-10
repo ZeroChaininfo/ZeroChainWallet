@@ -6,8 +6,8 @@ include('header.php');
 ?>
 <br>
 
-<script src="https://zerochain.info/css/qrcode.js"></script>
-<script src="https://zerochain.info/css/app.js"></script>
+<script src="https://zerochain.info/js/qrcode.js"></script>
+<script src="https://zerochain.info/js/app.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.3/jspdf.min.js"></script>
 
