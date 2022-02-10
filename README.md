@@ -1,11 +1,11 @@
 # ZeroChain Wallet & Blockchain Explorer
 Offline wallet based on javascript for Zero currency
 
-You can run (wallet_offline.html) on your browser to use as a simple Javascript-based Zero Wallet.
+You can run (wallet_offline.html) on your browser to use as a simple Javascript-based Wallet.
 
-or copy the whole project file to PHP server to use the explorer & API functions.
+or copy the whole project files to PHP server to use the explorer & API functions.
 
-or use the updated live version on http://zerochain.info/
+Live version: https://zerochain.info/
 
 
 ## ZeroChain Basic Query API
