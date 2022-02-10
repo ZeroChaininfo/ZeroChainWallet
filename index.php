@@ -24,7 +24,7 @@ $searchinfo = trim($searchinfo);
 include('header.php');
 ?>
 
-<script src="https://zerochain.info/css/highcharts.js"></script>
+<script src="https://zerochain.info/js/highcharts.js"></script>
 
 <br>
 
